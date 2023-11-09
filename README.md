@@ -112,3 +112,6 @@ Are welcome! Here is a [development roadmap](https://github.com/marksgraham/OCT-
 
 ## Clinical use
 We can't guarantee images extracted with OCT-Converter will match those extracted or viewed with the manufacturer's software. Any use in clinical settings is at the user's own risk.
+
+## AOIP Contribution
+Batch E2E to AVI converter script and ImageJ pluggin to be able to open the videos.
